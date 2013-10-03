@@ -78,7 +78,7 @@ http://www.pjrc.com/teensy/td_download.html
 
 Once, you have the IDE setup, the motor controller and radio libraries need to be copied to:
 
-<arduino-ide-folder>/libraries/
+\<arduino-ide-folder\>/libraries/
 
 With the libraries installed, open `kbot.ino` in the Arduino IDE. Now, compile and upload your sketch to the Teensy 3.0 :D
 
